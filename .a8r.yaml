@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: dfc225d9-f45d-57e2-9680-38383547751f
+    cluster_name: k8s-cluster-ams3-2
